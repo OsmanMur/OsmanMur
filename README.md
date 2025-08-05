@@ -62,6 +62,14 @@ I’m passionate about real-time systems, low-level hardware, and making things 
 />
 <img 
     align="left" 
+    alt="Verilog" 
+    title="Verilog" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/OsmanMur/profile-assets/blob/main/verilog-svgrepo-com.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -140,4 +148,5 @@ I’m passionate about real-time systems, low-level hardware, and making things 
 </p>
 
 ---
+
 
