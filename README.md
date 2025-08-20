@@ -137,7 +137,7 @@ I’m passionate about real-time systems, low-level hardware, and making things 
     align="left" 
     alt="Emirosman's GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=OsmanMur&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=OsmanMur&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true"
   />
   <img 
     align="left" 
