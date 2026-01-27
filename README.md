@@ -2,11 +2,11 @@
 
 **`Undergraduate Researcher • Developer • Maker`**
 
-Hi! I'm Emirosman, a Computer Science student at the Macaulay Honors College at Baruch College (CUNY). I'm currently working on embedded systems, signal processing, and machine learning for healthcare at Cornell Tech.
+Hi, I’m Emirosman. I study Computer Science at the Macaulay Honors College at Baruch College and spent some time working on embedded systems, signal processing, and machine learning for healthcare through a research project at Cornell Tech.
 
-From building a Doom-style FPS game in Python to helping design a wearable ultrasound system using FPGAs, I'm always looking to turn technical ideas into meaningful projects.
+I worked on a mix of projects, from building a Doom-style FPS game in Python to helping with the design of a wearable ultrasound system using FPGAs. I’ve always liked figuring out how things work under the hood and turning rough ideas into something usable.
 
-I’m passionate about real-time systems, low-level hardware, and making things that just *work*. Let’s connect!
+I am especially into real-time systems, low-level hardware, and building systems that are practical and reliable. Always happy to connect.
 
 <p align="left">
     <a href="https://github.com/OsmanMur?tab=repositories&sort=stargazers">
