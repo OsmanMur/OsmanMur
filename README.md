@@ -43,6 +43,11 @@ A team data analysis project exploring NYC bus speeds, automated camera enforcem
 
 ## In Progress
 
+### Spot ON
+A web application in development to help Baruch College students find nearby study spots.
+
+**Status:** In progress · Private repository
+
 ### [LSTM Energy Forecasting](https://github.com/OsmanMur/MTH4330-LSTM-Energy-Forecasting.)
 An MTH 4330 project focused on forecasting hourly electricity demand with a Python and NumPy LSTM and comparing it with other forecasting methods.
 
