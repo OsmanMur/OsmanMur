@@ -1,152 +1,71 @@
-# 👨🏻‍💻 Emirosman Murtazayev
+# Hi, I'm Emirosman Murtazayev
 
-**`Undergraduate Researcher • Developer • Maker`**
+**Computer Science at Baruch College · Macaulay Honors College**
 
-Hi, I’m Emirosman. I study Computer Science at the Macaulay Honors College at Baruch College and spent some time working on embedded systems, signal processing, and machine learning for healthcare through a research project at Cornell Tech.
+[LinkedIn](https://www.linkedin.com/in/emirosman-murtazayev-8a1426306/) · [Portfolio repository](https://github.com/OsmanMur/OsmanMur.github.io) · [All repositories](https://github.com/OsmanMur?tab=repositories)
 
-I worked on a mix of projects, from building a Doom-style FPS game in Python to helping with the design of a wearable ultrasound system using FPGAs. I’ve always liked figuring out how things work under the hood and turning rough ideas into something usable.
+## About Me
 
-I am especially into real-time systems, low-level hardware, and building systems that are practical and reliable. Always happy to connect.
+I'm a Computer Science student who enjoys understanding how things work under the hood and turning ideas into useful software. My projects span web applications, game development, and machine learning.
 
-<p align="left">
-    <a href="https://github.com/OsmanMur?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/OsmanMur?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/OsmanMur?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/OsmanMur?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/emirosman-murtazayev-8a1426306/">
-        <img 
-            alt="LinkedIn" 
-            title="Connect on LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
-        />
-    </a>
-</p>
+At Cornell Tech, I worked on embedded systems, signal processing, and machine learning for healthcare through a wearable ultrasound research project. I'm especially interested in software development, real-time systems, and the connection between software and hardware.
 
----
+## Technical Skills
 
-### 💻 Languages & Tools
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, C++, JavaScript, Verilog, MATLAB |
+| Web | React, HTML, CSS |
+| Development & Design | Git, Jupyter Notebook, Figma |
+| Research | Signal processing, embedded systems, machine learning |
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Verilog" 
-    title="Verilog" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/OsmanMur/profile-assets/blob/main/verilog-svgrepo-com.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MATLAB" 
-    title="MATLAB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jupyter"
-    title="Jupyter Notebook"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
-/>
+## Featured Projects
 
-<br/>
-<br/>
+### [Label Digitizer](https://github.com/OsmanMur/Label-Digitizer)
+A web application that extracts shipping information from USPS label photos using Gemini, lets users review and edit the results, and exports a template-compatible CSV.
 
----
+**Focus:** JavaScript · Serverless APIs · Image processing · CSV export
 
-### 📊 GitHub Stats
+### [Python Raycasting FPS](https://github.com/OsmanMur/Doom-like-game-python)
+A Doom-style game built with Python and Pygame. Includes raycast wall rendering, player movement and collision detection, animated enemies, weapon mechanics, and breadth-first search pathfinding.
 
-<p>
-  <img 
-    align="left" 
-    alt="Emirosman's GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=OsmanMur&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true"
-  />
-  <img 
-    align="left" 
-    alt="Most Used Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanMur&theme=tokyonight&layout=compact&langs_count=8"
-  />
-</p>
+**Focus:** Python · Pygame · Object-oriented programming · Game algorithms
 
----
+### [Movie Explorer](https://github.com/OsmanMur/Movie-Project)
+A React application for browsing popular movies, searching The Movie Database, and saving favorites in the browser.
 
+**Focus:** React · JavaScript · REST APIs · React Context · Local storage
 
+### [MTA Datathon: Bus Lanes & Camera Enforcement](https://github.com/OsmanMur/MTA-Datathon-2025-Bus-Automated-Camera-Enforcement-ACE-Violations)
+A team data analysis project exploring NYC bus speeds, automated camera enforcement violations, and transit access near CUNY campuses. Includes a notebook, maps, charts, and a video submission.
+
+**Focus:** Transit data · Geospatial analysis · Data visualization
+
+## In Progress
+
+### [LSTM Energy Forecasting](https://github.com/OsmanMur/MTH4330-LSTM-Energy-Forecasting.)
+An MTH 4330 project focused on forecasting hourly electricity demand with a Python and NumPy LSTM and comparing it with other forecasting methods.
+
+**Repository status:** Project overview and folder scaffolding; implementation and results are not yet published here.
+
+## More Repositories
+
+| Repository | Purpose |
+| --- | --- |
+| [Personal Portfolio](https://github.com/OsmanMur/OsmanMur.github.io) | Portfolio website files |
+| [HTML Portfolio](https://github.com/OsmanMur/html-portfolio) | Early HTML projects and web development practice |
+
+<details>
+<summary>Profile resources and practice</summary>
+
+- [Profile README](https://github.com/OsmanMur/OsmanMur) — the source for this overview.
+- [Profile Assets](https://github.com/OsmanMur/profile-assets) — supporting profile graphics.
+- [Git Practice](https://github.com/OsmanMur/git-test) — Git experimentation.
+
+</details>
+
+## Connect
+
+I'm happy to connect about software development, research, and collaborative projects.
+
+[Find me on LinkedIn](https://www.linkedin.com/in/emirosman-murtazayev-8a1426306/)
